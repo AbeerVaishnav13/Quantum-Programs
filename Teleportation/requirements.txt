@@ -1,0 +1,6 @@
+qiskit
+seaborn
+qiskit-ibmq-provider
+matplotlib
+numpy
+sympy
